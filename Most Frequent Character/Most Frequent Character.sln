@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2HW3_Fegan", "M2HW3_Fegan\M2HW3_Fegan.csproj", "{1590F5DD-2EB8-49B4-9295-CB10BD78ECCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequentLibrary", "FrequentLibrary\FrequentLibrary.csproj", "{69509E6C-A3EB-48D1-8EC9-DB212404E591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1590F5DD-2EB8-49B4-9295-CB10BD78ECCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1590F5DD-2EB8-49B4-9295-CB10BD78ECCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1590F5DD-2EB8-49B4-9295-CB10BD78ECCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1590F5DD-2EB8-49B4-9295-CB10BD78ECCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69509E6C-A3EB-48D1-8EC9-DB212404E591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69509E6C-A3EB-48D1-8EC9-DB212404E591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69509E6C-A3EB-48D1-8EC9-DB212404E591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69509E6C-A3EB-48D1-8EC9-DB212404E591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {840C1D4B-F0F4-4BE1-BBD4-6D9229ACF0F1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\bin\Debug\WordSeparator.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\bin\Debug\WordSeparator.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\bin\Debug\WordSeparator.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\obj\Debug\WordSeparator.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\obj\Debug\WordSeparator.Form1.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\obj\Debug\WordSeparator.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\obj\Debug\WordSeparator.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\obj\Debug\WordSeparator.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\obj\Debug\WordSeparator.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\H2HW4_Fegan\WordSeparator\obj\Debug\WordSeparator.pdb

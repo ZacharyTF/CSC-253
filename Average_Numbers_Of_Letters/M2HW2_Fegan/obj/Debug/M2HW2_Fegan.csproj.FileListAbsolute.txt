@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\bin\Debug\M2HW2_Fegan.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\bin\Debug\M2HW2_Fegan.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\bin\Debug\M2HW2_Fegan.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\obj\Debug\M2HW2_Fegan.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\obj\Debug\M2HW2_Fegan.averageWordForm.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\obj\Debug\M2HW2_Fegan.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\obj\Debug\M2HW2_Fegan.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\obj\Debug\M2HW2_Fegan.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\obj\Debug\M2HW2_Fegan.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Average_Numbers_Of_Letters\M2HW2_Fegan\obj\Debug\M2HW2_Fegan.pdb

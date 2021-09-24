@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\obj\Debug\Word Counter.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\obj\Debug\Word_Counter.Form1.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\obj\Debug\Word_Counter.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\obj\Debug\Word Counter.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\bin\Debug\Word Counter.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\bin\Debug\Word Counter.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\bin\Debug\Word Counter.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\obj\Debug\Word Counter.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 2\Homework\Word_Counter\Word Counter\obj\Debug\Word Counter.pdb
