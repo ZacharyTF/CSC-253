@@ -1,0 +1,12 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\bin\Debug\Personnel.mdf
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\bin\Debug\Personnel_log.ldf
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\bin\Debug\WinSearchProject.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\bin\Debug\WinSearchProject.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\bin\Debug\WinSearchProject.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\obj\Debug\WinSearchProject.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\obj\Debug\WinSearchProject.SearchForm.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\obj\Debug\WinSearchProject.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\obj\Debug\WinSearchProject.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\obj\Debug\WinSearchProject.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\obj\Debug\WinSearchProject.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Employee_Search\WinSearchProject\obj\Debug\WinSearchProject.pdb

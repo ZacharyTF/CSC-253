@@ -1,0 +1,12 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\bin\Debug\Personnel.mdf
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\bin\Debug\Personnel_log.ldf
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\bin\Debug\HourlyPaySorter.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\bin\Debug\HourlyPaySorter.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\bin\Debug\HourlyPaySorter.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\obj\Debug\HourlyPaySorter.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\obj\Debug\HourlyPaySorter.PaySortForm.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\obj\Debug\HourlyPaySorter.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\obj\Debug\HourlyPaySorter.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\obj\Debug\HourlyPaySorter.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\obj\Debug\HourlyPaySorter.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Hourly_Pay_Sorter\HourlyPaySorter\obj\Debug\HourlyPaySorter.pdb

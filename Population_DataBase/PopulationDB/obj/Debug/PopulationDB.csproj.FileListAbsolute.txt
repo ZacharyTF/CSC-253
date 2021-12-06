@@ -1,0 +1,12 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\bin\Debug\PopulationDB.mdf
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\bin\Debug\PopulationDB_log.ldf
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\bin\Debug\PopulationDB.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\bin\Debug\PopulationDB.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\bin\Debug\PopulationDB.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\obj\Debug\PopulationDB.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\obj\Debug\PopulationDB.PopulationForm.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\obj\Debug\PopulationDB.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\obj\Debug\PopulationDB.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\obj\Debug\PopulationDB.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\obj\Debug\PopulationDB.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 4\Homework\Population_DataBase\PopulationDB\obj\Debug\PopulationDB.pdb
