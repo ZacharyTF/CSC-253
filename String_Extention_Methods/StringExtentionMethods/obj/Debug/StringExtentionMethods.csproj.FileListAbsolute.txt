@@ -1,0 +1,13 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\bin\Debug\StringExtentionMethods.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\bin\Debug\StringExtentionMethods.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\bin\Debug\StringExtentionMethods.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\bin\Debug\ExtensionMethodsLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\bin\Debug\ExtensionMethodsLibrary.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.Form1.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.csproj.CopyComplete
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\StringExtentionMethods\obj\Debug\StringExtentionMethods.pdb

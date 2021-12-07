@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\obj\Debug\TeamLeader_Class.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\obj\Debug\TeamLeader_Class.Form1.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\obj\Debug\TeamLeader_Class.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\obj\Debug\TeamLeader_Class.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\obj\Debug\TeamLeader_Class.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\bin\Debug\TeamLeader_Class.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\bin\Debug\TeamLeader_Class.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\bin\Debug\TeamLeader_Class.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\obj\Debug\TeamLeader_Class.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\M5HW3_Fegan\TeamLeader_Class\obj\Debug\TeamLeader_Class.pdb

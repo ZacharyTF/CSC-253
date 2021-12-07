@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtentionMethods", "StringExtentionMethods\StringExtentionMethods.csproj", "{2EF0E56D-8245-452C-BDAA-BE7DDE523428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodsLibrary", "ExtensionMethodsLibrary\ExtensionMethodsLibrary.csproj", "{4844253E-F098-4FC9-94CE-52DB7BE05C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF0E56D-8245-452C-BDAA-BE7DDE523428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF0E56D-8245-452C-BDAA-BE7DDE523428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF0E56D-8245-452C-BDAA-BE7DDE523428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF0E56D-8245-452C-BDAA-BE7DDE523428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4844253E-F098-4FC9-94CE-52DB7BE05C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4844253E-F098-4FC9-94CE-52DB7BE05C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4844253E-F098-4FC9-94CE-52DB7BE05C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4844253E-F098-4FC9-94CE-52DB7BE05C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F354FB1B-6B1A-4EB6-B70E-FA44C35AA681}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\obj\Debug\M5HW1_Fegan.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\obj\Debug\M5HW1_Fegan.Form1.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\obj\Debug\M5HW1_Fegan.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\obj\Debug\M5HW1_Fegan.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\obj\Debug\M5HW1_Fegan.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\bin\Debug\M5HW1_Fegan.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\bin\Debug\M5HW1_Fegan.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\bin\Debug\M5HW1_Fegan.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\obj\Debug\M5HW1_Fegan.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\Employee_and_Production_Classes\M5HW1_Fegan\obj\Debug\M5HW1_Fegan.pdb

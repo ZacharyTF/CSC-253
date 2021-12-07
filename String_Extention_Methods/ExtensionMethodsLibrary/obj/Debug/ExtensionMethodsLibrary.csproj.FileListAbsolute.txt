@@ -1,0 +1,6 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\ExtensionMethodsLibrary\bin\Debug\ExtensionMethodsLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\ExtensionMethodsLibrary\bin\Debug\ExtensionMethodsLibrary.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\ExtensionMethodsLibrary\obj\Debug\ExtensionMethodsLibrary.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\ExtensionMethodsLibrary\obj\Debug\ExtensionMethodsLibrary.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\ExtensionMethodsLibrary\obj\Debug\ExtensionMethodsLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 5\Homework\String_Extention_Methods\ExtensionMethodsLibrary\obj\Debug\ExtensionMethodsLibrary.pdb
