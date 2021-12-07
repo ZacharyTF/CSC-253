@@ -1,0 +1,13 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\bin\Debug\UnitTuitionIncrease.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\bin\Debug\UnitTuitionIncrease.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\bin\Debug\UnitTuitionIncrease.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\bin\Debug\TuitionLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\bin\Debug\TuitionLibrary.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.Form1.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.csproj.CopyComplete
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\UnitTuitionIncrease\obj\Debug\UnitTuitionIncrease.pdb

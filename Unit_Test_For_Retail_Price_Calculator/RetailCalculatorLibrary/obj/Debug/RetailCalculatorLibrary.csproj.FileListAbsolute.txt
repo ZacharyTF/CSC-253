@@ -1,0 +1,6 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Test_For_Retail_Price_Calculator\RetailCalculatorLibrary\bin\Debug\RetailCalculatorLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Test_For_Retail_Price_Calculator\RetailCalculatorLibrary\bin\Debug\RetailCalculatorLibrary.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Test_For_Retail_Price_Calculator\RetailCalculatorLibrary\obj\Debug\RetailCalculatorLibrary.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Test_For_Retail_Price_Calculator\RetailCalculatorLibrary\obj\Debug\RetailCalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Test_For_Retail_Price_Calculator\RetailCalculatorLibrary\obj\Debug\RetailCalculatorLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Test_For_Retail_Price_Calculator\RetailCalculatorLibrary\obj\Debug\RetailCalculatorLibrary.pdb

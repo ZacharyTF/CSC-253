@@ -1,0 +1,6 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\TuitionLibrary\bin\Debug\TuitionLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\TuitionLibrary\bin\Debug\TuitionLibrary.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\TuitionLibrary\obj\Debug\TuitionLibrary.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\TuitionLibrary\obj\Debug\TuitionLibrary.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\TuitionLibrary\obj\Debug\TuitionLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Unit_Tuition_Increase\TuitionLibrary\obj\Debug\TuitionLibrary.pdb

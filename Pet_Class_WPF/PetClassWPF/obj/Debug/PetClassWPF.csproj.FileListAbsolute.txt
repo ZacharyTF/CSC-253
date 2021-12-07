@@ -1,0 +1,15 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\bin\Debug\PetClassWPF.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\bin\Debug\PetClassWPF.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\bin\Debug\PetClassWPF.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\MainWindow.g.cs
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\App.g.cs
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF_MarkupCompile.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF_MarkupCompile.lref
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\MainWindow.baml
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF.g.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\Pet_Class_WPF\PetClassWPF\obj\Debug\PetClassWPF.pdb

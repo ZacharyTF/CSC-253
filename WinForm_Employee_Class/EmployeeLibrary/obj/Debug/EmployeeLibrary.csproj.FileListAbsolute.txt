@@ -1,0 +1,5 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

@@ -1,0 +1,13 @@
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.csprojAssemblyReference.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.Form1.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.Properties.Resources.resources
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.csproj.GenerateResource.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.csproj.CoreCompileInputs.cache
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\bin\Debug\WinFormEmployeeClass.exe.config
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\bin\Debug\WinFormEmployeeClass.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\bin\Debug\WinFormEmployeeClass.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\bin\Debug\EmployeeLibrary.dll
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\bin\Debug\EmployeeLibrary.pdb
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.csproj.CopyComplete
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.exe
+D:\Ftcc college courses\Semester 3\CSC-253-0001 C#\Module 6\Homework\WinForm_Employee_Class\WinFormEmployeeClass\obj\Debug\WinFormEmployeeClass.pdb
